@@ -1,9 +1,9 @@
-<div align="center">
+
   
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=&height=300&section=header&text=&fontSize=90)
 
-# <center>JUST 💻
+# <div align="center"/>JUST 💻
 
 
 
@@ -25,4 +25,3 @@
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=&height=200&section=footer)
 
 
-</div>
