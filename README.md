@@ -1,9 +1,9 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=&height=300&section=header&text=&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=&fontSize=90)
 
-# <div align="center">JUST Coder 💻</div>
+# <div align="center">Toujun</div>
 
 <div align="center">
-  <h2>Hello</h2>
+  <h2>not programmer, just coder</h2>
 </div><br><br><br>
 
 <div align="left">
@@ -20,4 +20,4 @@
   <img src="https://github-readme-stats.vercel.app/api?username=root39293&show_icons=true" alt="GitHub Stats">
 </div>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=&height=200&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer)
