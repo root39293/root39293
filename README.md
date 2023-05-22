@@ -1,19 +1,23 @@
-
-  
-
 ![header](https://capsule-render.vercel.app/api?type=waving&color=&height=300&section=header&text=&fontSize=90)
 
-# <div align="center"/>JUST 💻
+# <div align="center">JUST Coder 💻</div>
 
-[PLAYER_NAME]'s Score: [SCORE]
-Rank: [RANK]
+<div align="center">
+  <h2>Hello</h2>
+</div><br><br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=root39293&layout=compact"><br><br>
+<div align="left">
+  <h3>OSU Stats</h3>
+  <p>Score: [SCORE]</p>
+  <p>Rank: [RANK]</p>
+</div><br><br><br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=root39293&show_icons=true">
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=root39293&layout=compact" alt="Top Languages">
+</div>
 
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=root39293&show_icons=true" alt="GitHub Stats">
+</div>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=&height=200&section=footer)
-
-
-
