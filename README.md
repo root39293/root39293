@@ -1,9 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=&fontSize=90)
 
-# <div align="center">Toujun</div>
 
 <div align="center">
-  <h2>not programmer, just coder</h2>
+  <h1>not programmer, just coder</h1>
 </div><br><br><br>
 
 <div align="left">
