@@ -1,10 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=&fontSize=90)
 
 
-<div align="center">
-  <h1>not programmer, just coder</h1>
-</div><br><br><br>
-
 <div align="left">
   <h3>OSU Stats</h3>
   <p>Score: [SCORE]</p>
