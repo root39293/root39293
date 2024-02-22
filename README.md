@@ -44,9 +44,10 @@
 ---
 
 
-# 🖊️ What I'm interested in... 
+# 🖊️ Nowdays... 
 
-- **Web3**
+- Web3
+- DevOps
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer)
 
