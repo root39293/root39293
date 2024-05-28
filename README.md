@@ -1,10 +1,10 @@
 
 ```python
 class Readme:
-    def __init__(self, name, website, interests, motto):
+    def __init__(self, name, website, bio):
         self.name = name
         self.website = website
-        self.motto = motto
+        self.bio = bio
         self.tech_stack = []
         self.current_focus = {}
 
@@ -25,7 +25,7 @@ class Readme:
         self.introduce()
         print(f"\nAbout Me:")
         print(f"Website: {self.website}")
-        print(f"Motto: {self.motto}")
+        print(f"bio: {self.bio}")
         print(f"\nTech Stack: {', '.join(self.tech_stack)}")
         print(f"\nCurrent Focus:")
         for key, value in self.current_focus.items():
@@ -35,7 +35,7 @@ if __name__ == "__main__":
     faith6 = Readme(
         name="Faith6",
         website="https://faith6.me",
-        motto="less code != less bug"
+        bio="less code != less bug"
     )
 
     faith6.add_tech_stack("Python")
