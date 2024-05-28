@@ -3,7 +3,7 @@
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=root39293&layout=compact"><br><br>
+  [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=root39293)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 
