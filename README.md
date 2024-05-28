@@ -18,8 +18,7 @@ class Readme:
         }
 
     def introduce(self):
-        print(f"Hello, World! I'm {self.name}.")
-        print("I'm Noob")
+        print(f"Hello, I'm {self.name}.")
 
     def display_info(self):
         self.introduce()
