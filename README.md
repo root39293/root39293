@@ -2,7 +2,7 @@
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=root39293&layout=compact&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=root39293&layout=compact&theme=default)
 
 
 # 🏠 About Me
