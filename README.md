@@ -4,9 +4,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=root39293&show_icons=true&theme=default)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=root39293&hide=jupyter%20notebook)
 
-Jupyter Notebook
-
-
 # 🏠 About Me
 > https://faith6.me
 
