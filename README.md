@@ -1,38 +1,53 @@
 
 ```python
-def introduce():
-    print("Hello, World! I'm Faith6.")
-    print("I'm Noob")
+class Readme:
+    def __init__(self, name, website, interests, motto):
+        self.name = name
+        self.website = website
+        self.motto = motto
+        self.tech_stack = []
+        self.current_focus = {}
 
-faith6 = {
-    "website": "https://faith6.me",
-    "interests": [
-        "Python",
-        "Node.js",
-        "Continuous Learning"
-    ],
-    "motto": "less code != less bug"
-}
+    def add_tech_stack(self, tech):
+        self.tech_stack.append(tech)
 
-tech_stack = [
-    "Python",
-    "Node.js",
-    "..."
-]
+    def set_current_focus(self, learning, exploring):
+        self.current_focus = {
+            "learning": learning,
+            "exploring": exploring
+        }
 
-current_focus = {
-    "learning": "LLM",
-    "exploring": "DevOps"
-}
+    def introduce(self):
+        print(f"Hello, World! I'm {self.name}.")
+        print("I'm Noob")
 
-def display_info():
-    introduce()
-    print(f"\nAbout Me:\n{faith6}")
-    print(f"\nTech Stack:\n{tech_stack}")
-    print(f"\nCurrent Focus:\n{current_focus}")
+    def display_info(self):
+        self.introduce()
+        print(f"\nAbout Me:")
+        print(f"Website: {self.website}")
+        print(f"Motto: {self.motto}")
+        print(f"\nTech Stack: {', '.join(self.tech_stack)}")
+        print(f"\nCurrent Focus:")
+        for key, value in self.current_focus.items():
+            print(f"{key.capitalize()}: {value}")
 
 if __name__ == "__main__":
-    display_info()
+    faith6 = Readme(
+        name="Faith6",
+        website="https://faith6.me",
+        motto="less code != less bug"
+    )
+
+    faith6.add_tech_stack("Python")
+    faith6.add_tech_stack("Node.js")
+    faith6.add_tech_stack("...")
+
+    faith6.set_current_focus(
+        learning="LLM",
+        exploring="DevOps"
+    )
+
+    faith6.display_info()
 ```
 
 
