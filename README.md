@@ -50,7 +50,7 @@ if __name__ == "__main__":
 ```
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=root39293&show_icons=true&hide_rank=true&include_all_commits=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=root39293&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=root39293&hide=jupyter%20notebook)
 
 
