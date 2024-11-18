@@ -2,7 +2,6 @@
 
 ## Skills
 - Python
-- Web
+- Node.js
 - DevOps
-
-
+- LLM
