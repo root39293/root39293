@@ -1,2 +1,5 @@
-# Stack
-Python/Node.js | TypeScript/SvelteKit
+## stack
+- Python
+- Node.js
+- TypeScript
+- SvelteKit
