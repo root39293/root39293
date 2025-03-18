@@ -1,4 +1,4 @@
-## stack
+## Stack
 - Python
 - Node.js
 - TypeScript
